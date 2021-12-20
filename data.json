@@ -1,0 +1,41 @@
+{
+    "request": {
+        "type": "LatLon",
+        "query": "Lat 17.74 and Lon 83.31",
+        "language": "en",
+        "unit": "f"
+    },
+    "location": {
+        "name": "Sitammapeta",
+        "country": "India",
+        "region": "Andhra Pradesh",
+        "lat": "17.733",
+        "lon": "83.317",
+        "timezone_id": "Asia/Kolkata",
+        "localtime": "2021-12-20 12:34",
+        "localtime_epoch": 1640003640,
+        "utc_offset": "5.50"
+    },
+    "current": {
+        "observation_time": "07:04 AM",
+        "temperature": 77,
+        "weather_code": 113,
+        "weather_icons": [
+            "https://assets.weatherstack.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png"
+        ],
+        "weather_descriptions": [
+            "Sunny"
+        ],
+        "wind_speed": 4,
+        "wind_degree": 69,
+        "wind_dir": "ENE",
+        "pressure": 1017,
+        "precip": 0,
+        "humidity": 57,
+        "cloudcover": 0,
+        "feelslike": 79,
+        "uv_index": 7,
+        "visibility": 6,
+        "is_day": "yes"
+    }
+}
